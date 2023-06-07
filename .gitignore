@@ -1,0 +1,11 @@
+backend/cfehome/__pycache__
+.venv
+
+backend/api/__pycache__
+backend/api/migrations
+
+backend/products/__pycache__
+backend/products/migrations
+
+backend/db.sqlite3
+
